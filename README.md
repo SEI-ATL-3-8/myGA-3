@@ -4,7 +4,7 @@ Log into https://my.generalassemb.ly/
 - Within the Data Structures section, do:
   - Introduction to Data Structures
   - Linked Lists
-  - Stacks and QUeues
+  - Stacks and Queues
   - Sets
   - Binary Trees and Tries
   - Balancing Binary Trees
