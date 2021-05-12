@@ -7,7 +7,6 @@ Log into https://my.generalassemb.ly/
   - Stacks and QUeues
   - Sets
   - Binary Trees and Tries
-  - Binary Trees and Tries
   - Balancing Binary Trees
   - Graphs
 
